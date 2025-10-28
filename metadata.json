@@ -1,0 +1,5 @@
+{
+  "name": "PDF Precision Tool",
+  "description": "An enhanced tool to accurately query and extract information from PDF documents using AI. Upload a PDF, ask a question, and get precise answers based on the document's content.",
+  "requestFramePermissions": []
+}
